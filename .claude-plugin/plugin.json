@@ -1,6 +1,8 @@
 {
-  "name": "bastis-design-toolkit",
-  "version": "0.1.0",
-  "description": "Design skills for monday.com consulting builds: Vibe brand theming plus a synced reference copy of Emil Kowalski's UI/animation skills.",
-  "author": { "name": "Sebastian Seegy", "email": "sebastianse@monday.com" }
+  "name": "bastis-vibe-design",
+  "version": "0.2.0",
+  "description": "Design skills for monday Vibe apps, ordered by phase: design direction before the first prompt, UI improvements (screen review, motion, mobile) once core screens work, and a worst-case break test before UAT. Every skill ends in paste-ready, one-change Vibe prompts.",
+  "author": { "name": "Sebastian Seegy", "email": "sebastianse@monday.com" },
+  "license": "MIT",
+  "keywords": ["monday", "vibe", "design", "ui", "motion", "mobile", "qa"]
 }

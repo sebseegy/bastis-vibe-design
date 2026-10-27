@@ -1,0 +1,12 @@
+{
+  "name": "bastis-vibe-design-marketplace",
+  "owner": { "name": "Sebastian Seegy" },
+  "description": "Basti Seegy's Vibe design plugin",
+  "plugins": [
+    {
+      "name": "bastis-vibe-design",
+      "source": "./",
+      "description": "Phase-ordered design skills for monday Vibe apps: direction, UI improvements, break test."
+    }
+  ]
+}
